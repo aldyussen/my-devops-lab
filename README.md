@@ -37,3 +37,7 @@ my-devops-lab/
 - Experience DevOps principles: automation, feedback, collaboration.  
 
 Good luck 🎯
+
+## Test changes
+When changing the greeting, update the expected response in `app/test_app.py` too.
+Docker builds automatically. Docker Hub publishing is skipped when secrets are absent.
